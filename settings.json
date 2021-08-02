@@ -1,0 +1,24 @@
+{
+ "url": "",
+ "authurl": "",
+ "Credentials": {
+  "email": "",
+  "password": ""
+ },
+ "MqttSettings": [
+  {
+   "connectionstring": "",
+   "port": "",
+   "username": "",
+   "password": "",
+   "topic": ""
+  },
+  {
+   "connectionstring": "",
+   "port": "",
+   "username": "",
+   "password": "",
+   "topic": ""
+  }
+ ]
+}

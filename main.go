@@ -30,7 +30,7 @@ func main() {
 	//reading config from file
 	var settings Config
 
-	data, err := ioutil.ReadFile("settings.json")
+	data, err := ioutil.ReadFile("/etc/hometolynus/settings.json")
 	if err != nil {
 		panic(err)
 	}
